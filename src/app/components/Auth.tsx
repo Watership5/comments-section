@@ -1,5 +1,6 @@
 "use client"
 // ? import { useState } from "react"
+// ** importing dependencies
 import { auth, googleAuth } from "../config/firebase"
 import { signInWithPopup, signOut } from "firebase/auth"
 
